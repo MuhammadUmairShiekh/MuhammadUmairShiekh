@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MuhammadUmairShiekh
-- 🌱 I’m currently learning MERN Stack Developer 
+- 👋 Hi there I’m MuhammadUmairShiekh
+- 🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity
+- 
 
   
 
