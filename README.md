@@ -1,4 +1,4 @@
-- ## 👋 Hi there I’m MuhammadUmairShiekh.
+ ## 👋 Hi there I’m MuhammadUmairShiekh.
 - **🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity**.
 
                          
@@ -6,8 +6,7 @@
 
 
 
-
- require "🏅LEARING PROJECTS" :
+### 🏅LEARING PROJECTS:
 - Student Mark Sheet 🔗=>https://studentgrades.netlify.app/
 - Calculator 🔗 => https://calculatemii.netlify.app/
 - Digital Clock 🔗 => https://digitalclocki.netlify.app/
