@@ -1,20 +1,17 @@
- ##  Hi👋 there I’m MuhammadUmairShiekh.
-- **🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity**.
-
-  
-
-                         
+ ##  Hi👋 there I’m Muhammad Umair Shiekh.
+- **🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity**.                       
 
 
 
 
-## 🏅PROJECTS:
-### Below Javascrip Learing Project 
+### 🏅LEARNING-MINI-JAVACSRIP-PROJECTS:
+
 - Student Mark Sheet 🔗=>https://studentgrades.netlify.app/
 - Calculator 🔗 => https://calculatemii.netlify.app/
 - Digital Clock 🔗 => https://digitalclocki.netlify.app/
-- Stop-Watch 🔗=>https://stopiwatch.netlify.app/
-### Below Bootstrap and vanila css Learing Project 
+- Stop-Watch 🔗=> https://stopiwatch.netlify.app/
+- TO-DO-LIST 🔗=> https://todolistmanagement.netlify.app/ 
+### 🏅LEARNING-LANDING-PAGE-&-MULTIPAGE-WEBSITE-PROJECTS:
 
 * Coffee-website using Bootstrap 🔗 => https://coffiihouse.netlify.app/
 
