@@ -1,4 +1,4 @@
-![image](https://github.com/MuhammadUmairShiekh/MuhammadUmairShiekh/assets/132872685/79523ee4-7d9f-48d6-9ada-5ce46feb41c8) ##  Hi👋 there I’m Muhammad Umair Shiekh.
+        Hi👋 there I’m Muhammad Umair Shiekh.
 - **🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity**.                       
 
 
