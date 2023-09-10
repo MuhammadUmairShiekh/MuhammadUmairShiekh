@@ -1,5 +1,5 @@
-Hi👋 there I’m Muhammad Umair Shiekh.
-- **🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity**.                       
+###Hi👋 there I’m Muhammad Umair Shiekh.
+###🌱 I’m currently learning MERN Stack Developer From Expertizo Univesity.                       
 
 
 
