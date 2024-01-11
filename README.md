@@ -15,6 +15,7 @@
 ### 🏅Practice-React-PROJECTS
 - Food Panda Clone 🔗=>https://foodipandaa.netlify.app/
 - TO-DO-LIST 🔗=> https://reactjsmanagement.netlify.app/
+- Dream-Furniture 🔗=> https://dreamfurniture.netlify.app/
 
 ### 🏅LEARNING-LANDING-PAGE-&-MULTIPAGE-WEBSITE-PROJECTS:
 
